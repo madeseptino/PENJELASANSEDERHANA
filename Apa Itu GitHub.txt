@@ -3,3 +3,7 @@ Fungsi GitHub:
 - berbagi konten
 - membuat pekerjaan lebih simpel
 - mengefisienkan waktu
+Istilah di GitHub
+- brench
+- repository
+- fork
