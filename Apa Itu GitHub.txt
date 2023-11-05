@@ -1,0 +1,5 @@
+GitHub adalah platform cloud untuk colaborasi project programmer
+Fungsi GitHub:
+- berbagi konten
+- membuat pekerjaan lebih simpel
+- mengefisienkan waktu
